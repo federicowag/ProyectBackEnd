@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tienda de campaña para 4 personas",
+    "imagen": "/public/img/CARPA4P.PNG",
+    "precio": 120.99,
+    "descripcion": "Tienda de campaña impermeable y resistente al viento para 4 personas.",
+    "categoria": {
+      "id": "refugio",
+      "nombre": "Refugio"
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Saco de dormir",
+    "imagen": "/public/img/bolsadormir.PNG",
+    "precio": 45.5,
+    "descripcion": "Saco de dormir de tres estaciones, ideal para temperaturas de hasta -5°C.",
+    "categoria": {
+      "id": "dormir",
+      "nombre": "Dormir"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Mochila de senderismo 50L",
+    "imagen": "/imagen/bolsosenderismo.PNG",
+    "precio": 80,
+    "descripcion": "Mochila ergonómica y resistente con capacidad de 50 litros, perfecta para excursiones largas.",
+    "categoria": {
+      "id": "equipaje",
+      "nombre": "Equipaje"
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Estufa portátil de camping",
+    "imagen": "/public/img/estufa.PNG",
+    "precio": 35,
+    "descripcion": "Estufa portátil de gas, ligera y compacta, con encendido piezoeléctrico.",
+    "categoria": {
+      "id": "cocina",
+      "nombre": "Cocina"
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Linterna LED recargable",
+    "imagen": "/public/img/linterna.PNG",
+    "precio": 25.99,
+    "descripcion": "Linterna LED recargable con múltiples modos de iluminación y resistencia al agua.",
+    "categoria": {
+      "id": "iluminacion",
+      "nombre": "Iluminación"
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Colchoneta inflable",
+    "imagen": "/public/img/colchon.PNG",
+    "precio": 28.5,
+    "descripcion": "Colchoneta inflable ligera y cómoda, fácil de transportar y almacenar.",
+    "categoria": {
+      "id": "dormir",
+      "nombre": "Dormir"
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Filtro de agua portátil",
+    "imagen": "/public/img/filtroagua.PNG",
+    "precio": 20,
+    "descripcion": "Filtro de agua portátil que elimina bacterias y protozoos, ideal para camping y excursiones.",
+    "categoria": {
+      "id": "hidratacion",
+      "nombre": "Hidratación"
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Kit de primeros auxilios",
+    "imagen": "/public/img/kitauxilio.PNG",
+    "precio": 18.99,
+    "descripcion": "Kit de primeros auxilios compacto y completo, ideal para emergencias en exteriores.",
+    "categoria": {
+      "id": "salud y seguridad",
+      "nombre": "Salud y seguridad"
+    }
+  },
+  {
+    "id": 123,
+    "name": "Nuevo Producto",
+    "price": 99.99
+  },
+  {
+    "id": 123,
+    "name": "Nuevo Producto",
+    "price": 99.99
+  }
+]
