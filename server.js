@@ -3,7 +3,7 @@ import { promises as fs } from 'fs'; // Importar fs para usarlo en el POST
 import { CartManager } from './manager/cartManager.js';
 
 const app = express();
-const port = 3000;
+const port = 8080;
 
 const cartManager = new CartManager();
 
