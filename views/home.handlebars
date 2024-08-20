@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="/css/style.css">
+<h1 class="title">Mis productos</h1>
+<div class="productsContainer">
+{{#each productos}}
+<div class="card">
+    <p> {{this.title}} </p>
+    <p> {{this.description}} </p>
+    <p> $ {{this.price}} </p>
+    <button class="button"> Comprar </button>
+</div>
+{{/each}}
+</div>
+<script src="../public/css/style.css"></script>
