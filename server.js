@@ -1,6 +1,6 @@
 import express from 'express';
 import { promises as fs } from 'fs'; // Importar fs para usarlo en el POST
-import { CartManager } from './manager/cartManager.js';
+import { CartManager } from './managers/cartManager.js';
 
 const app = express();
 const port = 8080;
